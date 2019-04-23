@@ -1,0 +1,67 @@
+body
+{
+	background-color: #ECF0F1;
+	font-family:  sans-serif;
+}
+
+#Kotak
+{
+	width: 520px;
+	height: 350px;
+	background: #FFF;
+	margin: 150px auto 100px auto;
+	color:#2ECC71;
+}
+
+#Atas
+{
+	height: 35px;
+	width: 520px;
+	text-align: center;
+	font-size: 15pt;
+	padding-top: 20px;
+}
+
+#Bawah
+{
+	height: 200px;
+	width: 520px;
+}
+
+.Masuk
+{
+	width: 400px;
+	height: 40px;
+	margin-top: 10px;
+	margin-left: 60px;
+	font-size: 12pt;
+	padding-left: 10px;
+ 	border: 1px solid #2ECC71;
+ 	color: #2ECC71;
+}
+
+.Masuk:focus
+{
+	width: 400px;
+	height: 40px;
+	margin-top: 10px;
+	margin-left: 60px;
+	font-size: 12pt;
+	padding-left: 10px;
+	color: #1ABC9C;
+	outline: none;
+	box-shadow: 0 0 5px #2ECC71;
+}
+
+#Tombol
+{
+	width: 412px;
+	height: 40px;
+	margin-top: 10px;
+	margin-left: 60px;
+	background:#2ECC71;
+	border: none;
+	font-size: 14pt;
+	outline: none;
+	color: #FFF;
+}
